@@ -77,6 +77,9 @@ img {
   color: #434455;
   display: flex;
 }
+.site-nav-address {
+  margin-left: auto;
+}
 .contacts {
   gap: 40px;
 }
