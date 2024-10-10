@@ -179,3 +179,14 @@ img {
 .Dark-bg {
   background-color: #2e2f42; /* Фоновий колір для темної секції */
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
