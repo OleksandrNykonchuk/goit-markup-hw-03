@@ -1,0 +1,166 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+.logo-header {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  text-decoration: none;
+  line-height: 1.17;
+}
+
+.logo-header-blue {
+  color: #2e2f42;
+}
+
+.list {
+  list-style: none;
+}
+
+.site-nav {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: #404bbf;
+}
+
+.contacts.link {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #434455;
+}
+
+.site-nav .contacts.link:hover,
+.site-nav .contacts.link:focus {
+  color: #404bbf;
+}
+
+.hero {
+  color: #ffffff;
+  background-color: #2e2f42;
+  text-align: center;
+}
+
+.section-banner-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+}
+
+.btn-banner {
+  font-family: "Roboto", sans-serif;
+  background: #4d5ae5;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0.04em;
+  line-height: 1.5;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.hero .btn-banner:hover,
+.hero .btn-banner:focus {
+  background-color: #404bbf;
+}
+
+.features-list {
+  text-align: left;
+}
+.example-header {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #2e2f42;
+}
+.section-team {
+  background-color: #f4f4fd;
+}
+.card-title {
+  font-weight: 500; /* Виправлено для заголовків */
+  font-size: 20px; /* Розмір шрифту */
+  line-height: 1.2; /* Висота рядка */
+  letter-spacing: 0.02em; /* Відстань між літерами */
+  color: #2e2f42; /* Колір тексту */
+}
+
+.section-team-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.section-list {
+  background-color: #ffffff;
+}
+.section-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.gallery-list-title {
+  font-weight: 500; /* Виправлено для заголовків */
+  font-size: 20px; /* Розмір шрифту */
+  line-height: 1.2; /* Висота рядка */
+  letter-spacing: 0.02em; /* Відстань між літерами */
+  color: #2e2f42; /* Колір тексту */
+}
+
+.gallery-list-text {
+  color: #434455;
+}
+
+.section-address {
+  color: #e7e9fc;
+  background-color: #2e2f42; /* Фоновий колір футера */
+}
+
+.logo-footer {
+  font-family: "Raleway";
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.logo-header-white {
+  color: #f4f4fd; /* Колір тексту */
+}
+.par {
+  color: #f4f4fd;
+}
+.Dark-bg {
+  background-color: #2e2f42; /* Фоновий колір для темної секції */
+}
