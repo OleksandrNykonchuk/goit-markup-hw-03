@@ -26,7 +26,6 @@ img {
 .header-nav {
   display: flex;
   align-items: center;
-  gap: 40px;
 }
 .logo-header {
   font-family: "Raleway", sans-serif;
