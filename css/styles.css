@@ -26,7 +26,6 @@ img {
 .header-nav {
   display: flex;
   align-items: center;
-  gap: 40px;
 }
 .logo-header {
   font-family: "Raleway", sans-serif;
@@ -55,6 +54,7 @@ img {
   letter-spacing: 0.02em;
   color: #2e2f42;
   display: flex;
+  gap: 40px;
 }
 
 .link {
@@ -74,6 +74,8 @@ img {
   letter-spacing: 0.02em;
   text-align: left;
   color: #434455;
+  display: flex;
+  gap: 40px;
 }
 
 .site-nav .contacts.link:hover,
