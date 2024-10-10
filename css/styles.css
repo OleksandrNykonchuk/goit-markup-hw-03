@@ -75,9 +75,10 @@ img {
   text-align: left;
   color: #434455;
   display: flex;
+}
+.contacts {
   gap: 40px;
 }
-
 .site-nav .contacts.link:hover,
 .site-nav .contacts.link:focus {
   color: #404bbf;
