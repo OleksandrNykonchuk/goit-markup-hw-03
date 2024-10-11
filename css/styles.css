@@ -224,6 +224,7 @@ img {
 .section-address {
   color: #e7e9fc;
   background-color: #2e2f42; /* Фоновий колір футера */
+  padding: 100px 0;
 }
 .nav-gallery {
   display: flex;
@@ -250,7 +251,7 @@ img {
 .logo-header-white {
   color: #f4f4fd; /* Колір тексту */
 }
-.par {
+.footer-text {
   color: #f4f4fd;
 }
 .Dark-bg {
@@ -266,4 +267,18 @@ p,
 ul {
   margin: 0;
   padding: 0;
+}
+.footer__logo-white {
+  color: #f4f4fd;
+}
+.footer__logo-blue {
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  display: inline-block;
+  margin-bottom: 16px;
 }
