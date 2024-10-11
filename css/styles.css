@@ -208,7 +208,7 @@ img {
   letter-spacing: 0.02em; /* Відстань між літерами */
   color: #2e2f42; /* Колір тексту */
 }
-fhf .gallery-list-text {
+.gallery-list-text {
   color: #434455;
 }
 
