@@ -161,6 +161,10 @@ img {
 .feature-item {
   width: calc((100% - 72px) / 4);
 }
+.team-list {
+  display: flex;
+  gap: 24px;
+}
 .section-team {
   background-color: #f4f4fd;
   padding: 120px 0;
