@@ -164,6 +164,7 @@ img {
 
 .section-team {
   background-color: #f4f4fd;
+  padding-bottom: 120px;
 }
 .card-title {
   font-weight: 500; /* Виправлено для заголовків */
