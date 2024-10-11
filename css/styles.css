@@ -146,6 +146,8 @@ img {
 }
 .features-list {
   text-align: left;
+  display: flex;
+  gap: 24px;
 }
 .example-header {
   font-family: Roboto;
