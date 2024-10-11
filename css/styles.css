@@ -186,6 +186,7 @@ img {
 }
 .section-list {
   background-color: #ffffff;
+  width: calc((100% - 72px) / 4);
 }
 
 .section-title {
