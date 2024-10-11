@@ -128,7 +128,9 @@ img {
 .hero .btn-banner:focus {
   background-color: #404bbf;
 }
-
+.section-features {
+  padding: 120px 0;
+}
 .features-list {
   text-align: left;
 }
@@ -157,6 +159,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  font-weight: 400;
 }
 .section-list {
   background-color: #ffffff;
@@ -169,6 +172,7 @@ img {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .gallery-list-title {
