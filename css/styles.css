@@ -145,6 +145,7 @@ img {
   padding: 120px 0;
 }
 .features-list {
+  text-align: left;
   display: flex;
   gap: 24px;
 }
