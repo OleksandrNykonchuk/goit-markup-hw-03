@@ -215,6 +215,7 @@ img {
   line-height: 1.2; /* Висота рядка */
   letter-spacing: 0.02em; /* Відстань між літерами */
   color: #2e2f42; /* Колір тексту */
+  margin-bottom: 8px;
 }
 .gallery-list-text {
   color: #434455;
