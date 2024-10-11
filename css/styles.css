@@ -14,7 +14,7 @@ body {
   margin: -1px;
   border: 0;
   padding: 0;
-  margin-bottom: 8px;
+
   white-space: nowrap;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
@@ -159,6 +159,7 @@ img {
   letter-spacing: 0.02em;
   text-align: left;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .section-team {
