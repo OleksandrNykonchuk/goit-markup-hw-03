@@ -161,7 +161,7 @@ img {
 .feature-item {
   width: calc((100% - 72px) / 4);
 }
-.team-list {
+.team__list {
   display: flex;
   gap: 24px;
 }
