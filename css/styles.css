@@ -205,7 +205,10 @@ img {
   color: #2e2f42;
   margin-bottom: 72px;
 }
-
+.section-portfolio {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
 .gallery-list-title {
   font-weight: 500; /* Виправлено для заголовків */
   font-size: 20px; /* Розмір шрифту */
