@@ -145,11 +145,10 @@ img {
   padding: 120px 0;
 }
 .features-list {
-  text-align: left;
   display: flex;
   gap: 24px;
 }
-.feature-item {
+.company__item {
   width: calc((100% - 72px) / 4);
 }
 .example-header {
