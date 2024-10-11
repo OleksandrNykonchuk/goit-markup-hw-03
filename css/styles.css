@@ -164,7 +164,7 @@ img {
 
 .section-team {
   background-color: #f4f4fd;
-  padding-bottom: 120px;
+  padding: 120px 0;
 }
 .card-title {
   font-weight: 500; /* Виправлено для заголовків */
@@ -193,7 +193,7 @@ img {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-  margin-bottom: 8px;
+  margin-bottom: 72px;
 }
 
 .gallery-list-title {
