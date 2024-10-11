@@ -150,7 +150,7 @@ img {
   gap: 24px;
 }
 .company__item {
-  width: 264px;
+  width: calc((100% - 72px) / 4);
 }
 .example-header {
   font-family: Roboto;
