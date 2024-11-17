@@ -88,7 +88,7 @@ img {
   text-align: left;
   color: #434455;
   display: flex;
-  padding: 24px 0 24px;
+  padding: 24px 0;
 }
 .site-nav-address {
   margin-left: auto;
