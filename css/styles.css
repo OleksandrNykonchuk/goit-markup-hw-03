@@ -7,7 +7,9 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-
+a {
+  padding: 24px 0;
+}
 .visually-hidden {
   position: absolute;
   width: 1px;
