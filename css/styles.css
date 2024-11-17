@@ -39,6 +39,7 @@ img {
 .header-nav {
   display: flex;
   align-items: center;
+  padding: 24px 0;
 }
 .logo-header {
   font-family: "Raleway", sans-serif;
@@ -50,7 +51,6 @@ img {
   text-decoration: none;
   line-height: 1.17;
   margin-right: 76px;
-  padding: 24px 0;
 }
 
 .logo-header-blue {
