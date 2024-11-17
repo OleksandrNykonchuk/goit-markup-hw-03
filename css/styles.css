@@ -7,6 +7,7 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
+
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -88,7 +89,6 @@ img {
   text-align: left;
   color: #434455;
   display: flex;
-  padding: 24px 0;
 }
 .site-nav-address {
   margin-left: auto;
