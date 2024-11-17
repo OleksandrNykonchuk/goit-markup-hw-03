@@ -35,7 +35,6 @@ img {
 .header {
   border-bottom: 1px solid #e7e9fc;
   display: flex;
-  padding: 24px 0;
 }
 .header-nav {
   display: flex;
@@ -51,6 +50,7 @@ img {
   text-decoration: none;
   line-height: 1.17;
   margin-right: 76px;
+  padding: 24px 0;
 }
 
 .logo-header-blue {
